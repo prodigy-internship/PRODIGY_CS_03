@@ -20,4 +20,4 @@ A GUI tool to check password strength based on rules like:
 2. Run the script:
 ```bash
 
-- "python password_checker_gui.py"
+- "python project.py"
